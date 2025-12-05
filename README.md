@@ -12,10 +12,12 @@
 
 ## 👋 About Me
 I’m a Senior Full-Stack Developer with a strong focus on scalable architecture, automation, and high-performance UI. My work centers around three pillars: **clean, maintainable architecture**, **fast and intuitive user experiences**, and **automation that saves real business time**.
-![Georgia Tech](https://img.shields.io/badge/Georgia%20Tech-MS%20Cybersecurity-FCC300?logo=georgia-tech&logoColor=white)
-
 
 I specialize in JavaScript/TypeScript, React, Node.js, distributed systems, AWS cloud services, and SaaS development. I also run **DevSpecific**, where I help agencies, startups, and enterprises build modern digital products.
+
+🎓 I’m currently a **Master’s in Cybersecurity student at the Georgia Institute of Technology**, expanding my expertise in secure system design, software security, network defense, and modern cybersecurity architecture.
+![Georgia Tech](https://img.shields.io/badge/Georgia%20Tech-MS%20Cybersecurity-FCC300?logo=georgia-tech&logoColor=white)
+
 
 ---
 
