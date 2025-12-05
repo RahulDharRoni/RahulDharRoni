@@ -28,7 +28,6 @@ I also run **DevSpecific**, where I help agencies, startups, and enterprises bui
 
 <table>
   <tr>
-    <!-- Left Column -->
     <td width="50%" valign="top">
 
       <h3>🧩 System Architecture & Backend Engineering</h3>
@@ -43,13 +42,12 @@ I also run **DevSpecific**, where I help agencies, startups, and enterprises bui
       <ul>
         <li>AWS EC2, RDS, S3, Lambda, CloudFront, API Gateway</li>
         <li>CI/CD automation with GitHub Actions</li>
-        <li>Dockerized deployments and container workflows</li>
+        <li>Dockerized deployments</li>
         <li>Monitoring, logging, security, scalability</li>
       </ul>
 
     </td>
 
-    <!-- Right Column -->
     <td width="50%" valign="top">
 
       <h3>🎨 Frontend Engineering</h3>
@@ -71,6 +69,7 @@ I also run **DevSpecific**, where I help agencies, startups, and enterprises bui
     </td>
   </tr>
 </table>
+
 
 ---
 
