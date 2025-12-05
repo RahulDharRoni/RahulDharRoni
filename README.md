@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://yourwebsite.com">🌐 Portfolio</a> • 
-  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/rahul-dhar-roni/)">LinkedIn</a> • 
+  <a href="https://linkedin.com/in/your-link">LinkedIn</a> •
   <a href="mailto:rahuldharroni@gmail.com">Email Me</a>
 </p>
 
