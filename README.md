@@ -60,9 +60,6 @@ I also run **DevSpecific**, where I build polished digital products for agencies
 # 🌐 Featured Projects (Project Cards)
 
 ### **💼 High-Performance Micro-SaaS Platform**
-<p>
-  <img src="https://images.unsplash.com/photo-1551033406-611cf9a28f67?auto=format&fit=crop&w=900&q=60" width="100%" />
-</p>
 
 **Stack:** Next.js, Node.js, Express, MongoDB, Redis, AWS  
 **Features:**  
@@ -76,9 +73,6 @@ I also run **DevSpecific**, where I build polished digital products for agencies
 ---
 
 ### **🛍 Agency & E-Commerce Automation Tool**
-<p>
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=900&q=60" width="100%" />
-</p>
 
 **Stack:** React, Node.js, PostgreSQL, Stripe, Webhooks  
 **Features:**  
@@ -92,9 +86,6 @@ I also run **DevSpecific**, where I build polished digital products for agencies
 ---
 
 ### **📖 WordPress Headless Architecture Setup**
-<p>
-  <img src="https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=900&q=60" width="100%" />
-</p>
 
 **Stack:** WordPress (Headless), Next.js, GraphQL, Redis  
 **Features:**  
