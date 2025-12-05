@@ -25,29 +25,52 @@ I also run **DevSpecific**, where I build polished digital products for agencies
 
 # 🚀 Skills & Expertise  
 
-### **🧩 System Architecture & Backend Engineering**
-- Distributed systems, domain-driven design, microservices  
-- Event-driven workflows, queues, caching, rate limiting  
-- Node.js, Express, Nest.js, TypeScript  
-- REST APIs, authentication, authorization  
+<table>
+  <tr>
+    <!-- Column 1 -->
+    <td width="50%" valign="top">
 
-### **🎨 Frontend Engineering**
-- React, Next.js, Redux Toolkit  
-- Tailwind CSS, GSAP, Framer Motion  
-- Component-driven architecture  
-- Performance tuning and rendering optimization  
+      <h3>🧩 System Architecture & Backend Engineering</h3>
+      <ul>
+        <li>Distributed systems, domain-driven design, microservices</li>
+        <li>Event-driven workflows, queues, caching, rate limiting</li>
+        <li>Node.js, Express, Nest.js, TypeScript</li>
+        <li>REST APIs, authentication, authorization</li>
+      </ul>
 
-### **☁️ Cloud Engineering & DevOps**
-- AWS EC2, RDS, S3, Lambda, CloudFront, API Gateway  
-- CI/CD using GitHub Actions  
-- Dockerized deployments  
-- Monitoring, logging, security, scalability  
+      <h3>☁️ Cloud Engineering & DevOps</h3>
+      <ul>
+        <li>AWS EC2, RDS, S3, Lambda, CloudFront, API Gateway</li>
+        <li>CI/CD using GitHub Actions</li>
+        <li>Dockerized deployments</li>
+        <li>Monitoring, logging, security, scalability</li>
+      </ul>
 
-### **🛒 CMS & E-Commerce Systems**
-- Custom WordPress theme & plugin development  
-- Headless WordPress / Shopify  
-- WooCommerce integrations  
-- Speed, SEO, and security optimization  
+    </td>
+
+    <!-- Column 2 -->
+    <td width="50%" valign="top">
+
+      <h3>🎨 Frontend Engineering</h3>
+      <ul>
+        <li>React, Next.js, Redux Toolkit</li>
+        <li>Tailwind CSS, GSAP, Framer Motion</li>
+        <li>Component-driven architecture</li>
+        <li>Performance tuning and rendering optimization</li>
+      </ul>
+
+      <h3>🛒 CMS & E-Commerce Systems</h3>
+      <ul>
+        <li>Custom WordPress theme & plugin development</li>
+        <li>Headless WordPress / Shopify</li>
+        <li>WooCommerce integrations</li>
+        <li>Speed, SEO, and security optimization</li>
+      </ul>
+
+    </td>
+  </tr>
+</table>
+ 
 
 ---
 
