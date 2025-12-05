@@ -116,28 +116,15 @@ Great engineering is more than writing code. It’s about designing systems that
 Strong architecture keeps products reliable long after launch.
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=ronidhar&show_icons=true&theme=tokyonight" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronidhar&layout=compact&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ronidhar&theme=tokyonight" />
-</p>
-
----
-
 ## 🌍 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
+    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white](https://www.linkedin.com/in/rahul-dhar-roni/)">
   </a>
   <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white">
+    <img src="[https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white](https://www.linkedin.com/in/rahul-dhar-roni/)">
   </a>
   <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+    <img src="[https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white](https://www.linkedin.com/in/rahul-dhar-roni/)">
   </a>
 </p>
