@@ -99,9 +99,6 @@ I also run **DevSpecific**, where I build polished digital products for agencies
 ---
 
 ### **⚙ Custom CRM & Booking Engine**
-<p>
-  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=60" width="100%" />
-</p>
 
 **Stack:** Node.js, React, PostgreSQL, AWS  
 **Features:**  
